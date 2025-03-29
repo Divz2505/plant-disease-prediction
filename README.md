@@ -8,8 +8,8 @@ Take necessary actions 👍
 
 ## Webpage Preview
 
-![image]("C:\Users\Dell\Downloads\pld Picture2.png")
+![image](https://i.postimg.cc/vZPdW75Y/pld-Picture2.png)
 
 ## Disease Prediction
 
-![image]("C:\Users\Dell\Downloads\pld picture1.png")
+![image](https://i.postimg.cc/VLmypZRs/pld-picture1.png)
